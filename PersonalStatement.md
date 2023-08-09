@@ -2,8 +2,6 @@
 
 **새로운 도전을 즐기는 김윤우입니다.**
 
-[https://www.notion.so](https://www.notion.so)
-
 ### Contact.
 
 **Email. yoonwoo4429@naver.com**
