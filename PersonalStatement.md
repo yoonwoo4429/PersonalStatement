@@ -2,6 +2,8 @@
 
 **새로운 도전을 즐기는 김윤우입니다.**
 
+[https://www.notion.so](https://www.notion.so)
+
 ### Contact.
 
 **Email. yoonwoo4429@naver.com**
@@ -32,7 +34,6 @@ GitHub. [](https://github.com/yoonwoo4429)
 
 2023.03 ~
 
-
 ---
 
 # Other Experience.
@@ -48,8 +49,6 @@ GitHub. [](https://github.com/yoonwoo4429)
 ---
 
 # Skill.
-
-실무에 활용할 수 있는 기술을 입력해주세요.
 
 - Frontend: Swift
 
